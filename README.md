@@ -1,1 +1,1 @@
-# 24-wa-project
+# project-C24-template
